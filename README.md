@@ -34,5 +34,5 @@ Thank you for being here! You can find my other **[projects here](https://github
 
 <br><br>
 <p align="center">
-<a href="https://youtu.be/-Oz4eNPw-Vs"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
+<a href="https://youtu.be/eBRRZGYHU1w"><img alt="Have a good day!" src="https://media.giphy.com/media/WQOFQXuVEZ90MtDdsx/giphy.gif" width="200px"></a>
 </p>
